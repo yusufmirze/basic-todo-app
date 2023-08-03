@@ -1,2 +1,2 @@
 # Projects
-Working on a lot of stuff within a limited time
+Basic Todo App written with Javascript(Electron) with site and chromium desktop app
