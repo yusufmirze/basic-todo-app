@@ -1,0 +1,61 @@
+#button1{
+    width: 8%;
+    height: 8%;
+    color: black;
+    font-family: monospace;
+    font-size: 250%;
+    position: absolute;
+    left: 80%;
+    top: 85%;
+    background-color: white;
+    border: none;
+    user-select: none;
+}
+#p1{ /*to do*/
+    color: black;
+    font-family: monospace;
+    position: -webkit-sticky;
+    position: absolute;
+    font-size: 200%;
+    left: 46%;
+    top: 9%;
+    user-select: none;
+    font-weight: 200;
+}
+#shape1{
+    width: 60%;
+    height: 70%;
+    background-color:color-mix(in srgb, grey 15%, white 85%);
+    position: absolute;
+    left: 20%;
+    top: 20%;
+    border: none;
+    border-radius: 6%;
+    user-select: none;
+}
+#i1
+{
+    width: 59.8%;
+    height: 8%;
+    position: absolute;
+    top: 85%;
+    left: 20%;
+    font-size: 400%;
+    font-family: monospace;
+    /* border-radius: 0% 0% 6% 6%; */
+    border: none;
+    user-select: none;
+}
+#reset{
+    position: absolute;
+    width: 6%;
+    height: 8%;
+    color: black;
+    background-color: white;
+    border: none;
+    font-family: monospace;
+    font-size: 250%;
+    top: 85%;
+    left: 14%;
+    user-select: none;
+}
